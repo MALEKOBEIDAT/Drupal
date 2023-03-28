@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Rent Listing</menu_item_title>
+      <menu_item_path>rent listing</menu_item_path>
+      <menu_item_slug>rent-listing</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact</menu_item_title>
+      <menu_item_path>contact</menu_item_path>
+      <menu_item_slug>contact</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>index</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/21/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_index_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.27em;"><span style="font-family:'Marcellus','Arial';font-size:3.2em;color:rgba(186,151,120,1);">Smart Living</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 30px 0px;line-height:2.2em;"><span style="font-size:1.067em;">In a very beautiful place, near Olsztynka, in the middle of endless forests, lies the small village Guzowy furnace. Bears the same name peaceful, forest lake, which is located on our property, "The Furnace". Indeed, we are already Furnace, because some 500m behind the village Guzowy stove -.</span></p><p style="margin:5px 0px 20px 0px;line-height:2.2em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:1.067em;">but it is only we have direct access to the lake Guzowy furnace and a unique view of both of our homes for a wide panorama of the lake and the beautiful wall of the forest.</span></p><p style="margin:5px 0px 20px 0px;line-height:2.2em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span><a target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:481px;max-width:499px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/enzadattolovpCvlzY9FkUunsplash.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_index_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:5.59em;"><span style="font-size:4.8em;color:rgba(243,243,243,1);">280</span></p><p style="text-align:Center; display:block; line-height:2.47em;"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">PROPERTIES TO RENT</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:5.59em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:4.8em;color:rgba(243,243,243,1);">487</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">PAYING GUEST</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:5.59em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:4.8em;color:rgba(243,243,243,1);">579</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">HOUSE RENT</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; line-height:5.59em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:4.8em;color:rgba(243,243,243,1);">10k</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">AVERAGE RENT</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_index_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.27em;"><span style="font-family:'Marcellus','Arial';font-size:3.2em;color:rgba(186,151,120,1);">Our Services</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:1.07em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:211px;max-width:316px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/toddkent178j8tJrNlcunsplash1.jpg" alt="dfhs" /></span></span><span style="font-family:'Oswald','Arial';font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;"><span style="font-family:'Cormorant Garamond','Arial';font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="text-align:Center; display:block; line-height:2.71em;"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$200/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/irenerego4I2gvtDOhrcunsplash3.jpg" alt="yti" /></span></span><span style="font-family:'Oswald','Arial';font-size:1.333em;">Family Appartment</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-family:'Crimson Text','Arial';font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$180/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/sebastianstaines6_8nhHo4fDcunsplash1.jpg" alt="dst" /></span></span><span style="font-family:'Oswald','Arial';font-size:1.333em;">House Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-family:'Crimson Text','Arial';font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$280/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column24">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/toddkent178j8tJrNlcunsplash3.jpg" alt="h" /></span></span><span style="font-family:'Oswald','Arial';font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-family:'Cormorant Garamond','Arial';font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$120/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column25">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/chimR1uiDu8vBh0unsplash.jpg" alt="ctf" /></span></span><span style="font-family:'Oswald','Arial';font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-family:'Cormorant Garamond','Arial';font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$190/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column26">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/toddkent178j8tJrNlcunsplash2.jpg" alt="fg" /></span></span><span style="font-family:'Oswald','Arial';font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-family:'Cormorant Garamond','Arial';font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$170/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_index_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:3.27em;"><span style="font-family:'Marcellus','Arial';font-size:3.2em;color:rgba(255,255,255,1);">IT'S TIME TO </span><span style="font-family:'Marcellus','Arial';font-size:3.2em;color:rgba(186,151,120,1);">DISCOVER</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.47em;"><span style="font-family:'Cormorant Garamond','Arial';font-size:1.333em;color:rgba(255,255,255,1);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.47em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:62px;max-width:65px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/jacobjoliboisz_7qjNovHwunsplash.png" alt="img" /></span></span><span style="font-family:'Cormorant Garamond','Arial';font-size:1.333em;color:rgba(255,255,255,1);">Elina smith</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_index_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><br style="color:rgba(0,0,0,1);" /></p><h2 style="text-align:Center; display:block; line-height:1.53em;"><span style="font-family:'Vidaloka','Arial';font-size:1.5em;color:rgba(186,151,120,1);">Luxury In Every Detail</span></h2></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_index_html_row5 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:3.01em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:217px;max-width:326px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/ralphravikaydenFqqiAvJejtounsplash3.jpg" alt="dy" /></span></span><span style="font-family:'Vidaloka','Arial';font-size:1.467em;">Changing the way we sell and buy real estate</span></p><p style="margin:0px 0px 0px 0px;text-align:Center; display:block; line-height:3.01em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">View Availibility</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column51">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:0px 0px 5px 0px;text-align:Center; display:block; line-height:2.67em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span style="margin:5px 0px 0px 0px;line-height:1.07em;"><img class="ttr_uniform" style="max-height:217px;max-width:326px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/ralphravikayden2d4lAQAlbDAunsplash1.jpg" alt="rt" /></span></span><span style="font-family:'Vidaloka','Arial';font-size:1.467em;">What agencies are looking for in an agent</span></p><p style="margin:0px 0px 5px 0px;text-align:Center; display:block; line-height:2.67em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">View Availibility</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_index_html_column52">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.71em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:217px;max-width:326px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/ralphravikaydenMyeOnGcibCQunsplash3.jpg" alt="fj" /></span></span><span style="font-family:'Vidaloka','Arial';font-size:1.467em;">Families, its the best time to start buying</span></p><p style="margin:0px 0px 0px 0px;text-align:Center; display:block; line-height:2.71em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">View Availibility</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/21/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.47em;"><span style="font-family:'Marcellus','Arial';font-size:2.4em;color:rgba(255,255,255,1);">About Us</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;line-height:3.43em;"><span style="font-weight:600;font-size:1.867em;color:rgba(186,151,120,1);">Introducing </span><span style="font-weight:600;font-size:1.867em;">a House Rental</span></p><p style="margin:5px 0px 20px 0px;line-height:1.99em;"><span style="font-size:1.067em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p><p style="margin:5px 0px 20px 0px;line-height:1.99em;"><span style="font-size:1.067em;">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p><p style="margin:5px 0px 20px 0px;line-height:1.99em;"><span><a target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:570px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/about1.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:570px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/about2.jpg" alt="img" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;line-height:3.43em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:600;font-size:1.867em;">Introducing a House </span><span style="font-weight:600;font-size:1.867em;color:rgba(186,151,120,1);">Rental</span></p><p style="margin:5px 0px 20px 0px;line-height:1.99em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:1.067em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p><p style="margin:5px 0px 20px 0px;line-height:1.99em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:1.067em;">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p><p style="margin:5px 0px 20px 0px;line-height:1.99em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span><a target="_self" class="btn btn-md btn-default">Learn More</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:5.83em;"><span style="font-family:'Vidaloka','Arial';font-size:3.2em;color:rgba(186,151,120,1);">Meet Our Agents</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.47em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:650px;max-width:600px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/teacher1.jpg" alt="img" /></span></span><span style="font-weight:600;font-size:1.333em;color:rgba(186,151,120,1);">David Brown</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:650px;max-width:600px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/teacher2.jpg" alt="img" /></span></span><span style="font-weight:600;font-size:1.333em;color:rgba(186,151,120,1);">David Brown</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.47em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:650px;max-width:600px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/teacher3.jpg" alt="img" /></span></span><span style="font-weight:600;font-size:1.333em;color:rgba(186,151,120,1);">David Brown</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact</page_title>
+      <alias>contact</alias>
+      <page_name>Contact</page_name>
+      <page_header_id>contact</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/21/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.39em;"><span style="font-family:'Marcellus','Arial';font-size:2.4em;color:rgba(255,255,255,1);">Contact Us</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_contact_html_row1 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 20px 0px;"><span style="font-weight:600;font-size:1.6em;">Address:</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">New York City,</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">NY 10005, USA</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">PHONES: (800) 123-4567-890</span></p><p style="margin:2px 0px 0px 8px;line-height:1.99em;"><span style="font-size:1.067em;">WE ARE OPEN: Mon-Fri: 10:00 AM - 8:00 PM</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact_html_column11">
+<div class="margin_collapsetop"></div>
+
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Rent Listing</page_title>
+      <alias>rent-listing</alias>
+      <page_name>Rent Listing</page_name>
+      <page_header_id>rent-listing</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/21/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_rent-listing_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:4.39em;"><span style="font-family:'Marcellus','Arial';font-size:2.4em;color:rgba(255,255,255,1);">Rent Listing</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_rent-listing_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:3.27em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-family:'Marcellus','Arial';font-size:3.2em;">Recently Added</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:282px;max-width:349px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1714053359.png" /></span></span><span style="font-weight:600;font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$200/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:283px;max-width:349px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1954056642.png" /></span></span><span style="font-weight:600;font-size:1.333em;">Family Appartment</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$180/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:282px;max-width:349px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/1633910981.png" /></span></span><span style="font-weight:600;font-size:1.333em;">House Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$280/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column14">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:282px;max-width:349px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/2082246623.png" /></span></span><span style="font-weight:600;font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$200/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column15">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:282px;max-width:349px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/2099769220.png" /></span></span><span style="font-weight:600;font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$200/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column16">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:282px;max-width:349px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/2144003341.png" /></span></span><span style="font-weight:600;font-size:1.333em;">House On Rent</span></p><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:1.07em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.2em;color:rgba(157,157,157,1);">New York</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; line-height:2.71em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:700;font-size:1.467em;color:rgba(6,42,77,1);">$200/mo</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_rent-listing_html_row2 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:4.8em;color:rgba(243,243,243,1);">280</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">PROPERTIES TO RENT</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:4.8em;color:rgba(243,243,243,1);">280</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">PROPERTIES TO RENT </span></p><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:4.8em;color:rgba(243,243,243,1);">280</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">PROPERTIES TO RENT</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 0px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:4.8em;color:rgba(243,243,243,1);">280</span></p><p style="margin:5px 0px 5px 0px;text-align:Center; display:block; font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-weight:500;font-size:1.333em;color:rgba(243,243,243,1);">PROPERTIES TO RENT</span></p><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_rent-listing_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_rent-listing_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:4.39em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-family:'Marcellus','Arial';font-size:2.4em;">Our Client Says</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.2em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span style="font-size:1.067em;">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:2.23em;font-family:'Rajdhani','Arial';color:rgba(51,51,51,1);"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:65px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/jacobjoliboisz_7qjNovHwunsplash1.png" alt="yrj" /></span></span><span style="font-weight:600;font-size:1.2em;">elina smith</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:600;color:rgba(243,243,243,1);">House Rental</span></h4><p><span style="color:rgba(255,255,255,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>index</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rent-listing</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:600;color:rgba(243,243,243,1);">Pages</span></h4><p><span style="color:rgba(255,255,255,1);">Home</span></p><p><span style="color:rgba(255,255,255,1);">About</span></p><p><span style="color:rgba(255,255,255,1);">Contact</span></p><p><span style="color:rgba(255,255,255,1);">Blog</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>index</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rent-listing</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span style="font-weight:600;color:rgba(243,243,243,1);">Address</span></h4><p style="line-height:2.07em;"><span style="color:rgba(255,255,255,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="line-height:2.07em;"><span style="color:rgba(255,255,255,1);">New York City</span></p><p style="line-height:2.07em;"><span style="color:rgba(255,255,255,1);">NY 10005, USA</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>index</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rent-listing</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><h4 style="margin:16px 0px 10px 0px;"><span style="font-weight:600;color:rgba(243,243,243,1);">Get In Touch</span></h4><p style="line-height:2.07em;"><br style="color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Facebook.png" /><span style="color:rgba(255,255,255,1);">Facebook</span></p><p style="line-height:2.07em;"><br style="color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/Twitter.png" /><span style="color:rgba(255,255,255,1);">Twitter</span></p><p style="line-height:2.07em;"><br style="color:rgba(255,255,255,1);" /><img style="margin:0px 15px 0px 0px;" src="~base_path~sites/default/files/inline-images/LinkedIn.png" /><span style="color:rgba(255,255,255,1);">LinkedIn</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>index</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact</widget_page>
+          <widget_page>rent-listing</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes>
+      <header name="headershape00">
+        <block name="headershape00" tt_blockID="header_cell00" title="header_block00">
+          <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:1.91em;"><span style="font-family:'Cormorant Garamond','Arial';font-size:1.6em;color:rgba(255,255,255,1);">Everything Within Reach</span></p><p style="margin:5px 0px 40px 0px;text-align:Center; display:block; line-height:5.59em;"><span style="font-family:'Marcellus','Arial';font-size:4.8em;color:rgba(255,255,255,1);">Enhanced Living Experience</span></p><p style="margin:5px 0px 20px 0px;text-align:Center; display:block; line-height:3.27em;"><span><a target="_self" class="btn btn-lg btn-default">Learn More</a></span></p><p style="margin:5px 0px 20px 0px;line-height:2.47em;"><br style="font-weight:600;font-size:1.333em;color:rgba(239,85,72,1);" /></p></div>]]></content>
+          <widget_pages>
+            <widget_page>index</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact</widget_page>
+            <widget_page>rent-listing</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+    </headershapes>
+    <slideshowshapes />
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>
